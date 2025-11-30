@@ -47,8 +47,8 @@ El proyecto consiste en el diseño e implementación de una base de datos **NoSQ
 
 ## 👨‍💻 Autores
 
--Hubert Antonio Ferrer Guerrero
--José Poblete
--Eduardo Criollo
+- Hubert Antonio Ferrer Guerrero
+- José Poblete
+- Eduardo Criollo
 
 Máster Universitario en Desarrollo de Aplicaciones y Servicios Web (VIU)
