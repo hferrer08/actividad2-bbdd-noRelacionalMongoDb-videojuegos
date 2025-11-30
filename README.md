@@ -6,7 +6,7 @@ El proyecto consiste en el diseño e implementación de una base de datos **NoSQ
 
 ## 📁 Contenido del repositorio
 
-- `actividad2.ipynb`  
+- `Actividad2_dbWeb.ipynb`  
   Notebook principal con:
   - Explicación del caso
   - Diseño del modelo conceptual NoSQL
@@ -15,10 +15,10 @@ El proyecto consiste en el diseño e implementación de una base de datos **NoSQ
   - Inserciones y consultas
   - Conclusiones de la actividad
 
-- `actividad2.html` / `actividad2.pdf`  
+- `Actividad2_dbWeb.html`
   Export del notebook para visualización sin Jupyter.
 
-- `modelo_datos.png`  
+- `conceptual.jpeg`  
   Diagrama conceptual / UML del dominio del sistema de videojuegos.
 
 - `fisico.js`  
@@ -47,8 +47,8 @@ El proyecto consiste en el diseño e implementación de una base de datos **NoSQ
 
 ## 👨‍💻 Autores
 
-**Hubert Antonio Ferrer Guerrero** 
-**José Poblete**
-**Eduardo Criollo**
+-Hubert Antonio Ferrer Guerrero
+-José Poblete
+-Eduardo Criollo
 
 Máster Universitario en Desarrollo de Aplicaciones y Servicios Web (VIU)
